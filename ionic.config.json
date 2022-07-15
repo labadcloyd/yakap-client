@@ -1,7 +1,0 @@
-{
-  "name": "Yakap",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "react"
-}
